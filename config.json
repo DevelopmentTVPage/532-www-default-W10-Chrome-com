@@ -1,0 +1,15 @@
+{
+    "title": "Default Widget DO NOT SAVE Always keep default options",
+    "baseURL": "https:\/\/www.default-W10-Chrome.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759095",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "default-W10-Chrome.com"
+    }
+}
